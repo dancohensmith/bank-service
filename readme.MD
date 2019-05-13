@@ -24,6 +24,8 @@ Other options where considered such as wrapping the AccountBalance with the abil
 we would need to order the locking using the accountId to order. this would ensure we would always lock in the same order. 
 The decision was this was much more complicated and not neccessary.
 
+The data is stored in memory in a HashMap.
+
 ## Running service
 
 use Maven to build the service.
@@ -34,6 +36,8 @@ run
 ```
 java -jar target/bank-service-1.0-SNAPSHOT.jar
 ```
+
+The service has some [precanned accounts](src/main/resources/bank_data.json) loaded on startup.
 
 ## Postman collection
 
