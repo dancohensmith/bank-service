@@ -1,0 +1,26 @@
+[
+  {
+    "balance" : 1500.89,
+    "accountId" : "account1"
+  },
+  {
+    "balance" : 2500.78,
+    "accountId" : "account2"
+  },
+  {
+    "balance" : 2500,
+    "accountId" : "account3"
+  },
+  {
+    "balance" : 3500.89,
+    "accountId" : "account4"
+  },
+  {
+    "balance" : 4500.89,
+    "accountId" : "account5"
+  },
+  {
+    "balance" : 5788.89,
+    "accountId" : "account6"
+  }
+]
