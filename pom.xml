@@ -21,7 +21,7 @@
         <unirest-java.version>1.4.9</unirest-java.version>
         <guava.version>27.1-jre</guava.version>
         <logback-classic.version>1.2.3</logback-classic.version>
-        <jackson-databind.version>2.9.5</jackson-databind.version>
+        <jackson-databind.version>2.9.8</jackson-databind.version>
     </properties>
 
 
